@@ -11,7 +11,7 @@ body {
   font-size: 16px;
   /* https://cssgradient.io/gradient-backgrounds/ */
   background: #c6ffdd;
-  background: linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+  background: linear-gradient(to right, #ba7aee, #968252, #c6ffdd);
   display: flex;
   justify-content: center;
   align-items: center;
